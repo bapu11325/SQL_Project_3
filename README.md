@@ -21,5 +21,3 @@ The queries range from simple lookups to complex window functions and Common Tab
 - **Flags:** licensed, official_video  
 - **Source:** most_playedon (Spotify or YouTube)
 
-WHERE Stream > 10000000;
-
